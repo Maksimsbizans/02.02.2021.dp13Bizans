@@ -18,3 +18,7 @@ git config user.email "maksimsbizansdp13@inbox.lv"
 
 ## Status
 Viss ir labi
+
+## Citāti
+> Nav grūti mīlēt labu cilvēku. Grūti mīlēt tādu cilvēku, kāds viņš ir.
+
