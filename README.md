@@ -36,9 +36,15 @@ def func(x)
 1. stundas 
 2. treniņš
 3. gulet 
-## Saraksts 
-1. pastaigaties 
-2. ēd
-3. strādat
+## Saraksts(ar un bez atzīmēm)
+- [x] pastaigaties 
+- [ ] ēd
+- [ ] strādat
+
+## Tabula
+| Vards         |Uzvards        |Datums     |
+|---------------|---------------|-----------|
+|Maksims        |Bizans         |25.02.21   |
+
 
 
