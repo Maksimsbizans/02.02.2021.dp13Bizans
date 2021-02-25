@@ -32,3 +32,14 @@ def func(x)
 ![alt text](kartinka.jpg)
 ![alt text](https://static7.depositphotos.com/1314241/789/i/600/depositphotos_7890698-stock-photo-ferocious-lion.jpg)
 
+## Saraksts 
+1. stundas 
+2. treniņš
+3. gulet 
+## Saraksts 
+1. pastaigaties 
+2. ēd
+3. strādat
+4. 
+5. 
+
