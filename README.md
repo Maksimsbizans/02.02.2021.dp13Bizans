@@ -22,3 +22,10 @@ Viss ir labi
 ## Citāti
 > Nav grūti mīlēt labu cilvēku. Grūti mīlēt tādu cilvēku, kāds viņš ir.
 
+## Kods python
+```
+import multiprocesing
+import time 
+def func(x)
+```
+
