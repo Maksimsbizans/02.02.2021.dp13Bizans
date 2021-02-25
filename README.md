@@ -28,4 +28,7 @@ import multiprocesing
 import time 
 def func(x)
 ```
+## Bilde
+![alt text](kartinka.jpg)
+![alt text](https://static7.depositphotos.com/1314241/789/i/600/depositphotos_7890698-stock-photo-ferocious-lion.jpg)
 
