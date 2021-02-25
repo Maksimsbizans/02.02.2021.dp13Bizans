@@ -3,7 +3,7 @@ maksims.bizansdp13
     
 # Komandas 
 '''
-git clone URL                       # Projektu nokope no github
+git clone URL                      # Projektu nokope no github
 
 git status                          # Repo status
 
