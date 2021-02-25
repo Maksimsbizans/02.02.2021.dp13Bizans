@@ -14,3 +14,7 @@ git commit -m "Pavektais darbs"     # Versijas izveide
 git config user.name "Maksims Bizans"
 git config user.email "maksimsbizansdp13@inbox.lv"
 ```
+
+
+## Status
+Viss ir labi
