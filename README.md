@@ -40,6 +40,5 @@ def func(x)
 1. pastaigaties 
 2. ēd
 3. strādat
-4. 
-5. 
+
 
